@@ -1,0 +1,12 @@
+D:\CSharpCode\CoreProject2\EntityLayer\CoreLayer\bin\Debug\net6.0\CoreLayer.deps.json
+D:\CSharpCode\CoreProject2\EntityLayer\CoreLayer\bin\Debug\net6.0\CoreLayer.dll
+D:\CSharpCode\CoreProject2\EntityLayer\CoreLayer\bin\Debug\net6.0\CoreLayer.pdb
+D:\CSharpCode\CoreProject2\EntityLayer\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.AssemblyReference.cache
+D:\CSharpCode\CoreProject2\EntityLayer\CoreLayer\obj\Debug\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCode\CoreProject2\EntityLayer\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfoInputs.cache
+D:\CSharpCode\CoreProject2\EntityLayer\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfo.cs
+D:\CSharpCode\CoreProject2\EntityLayer\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.CoreCompileInputs.cache
+D:\CSharpCode\CoreProject2\EntityLayer\CoreLayer\obj\Debug\net6.0\CoreLayer.dll
+D:\CSharpCode\CoreProject2\EntityLayer\CoreLayer\obj\Debug\net6.0\refint\CoreLayer.dll
+D:\CSharpCode\CoreProject2\EntityLayer\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
+D:\CSharpCode\CoreProject2\EntityLayer\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll

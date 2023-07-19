@@ -1,0 +1,17 @@
+D:\CSharpCode\CoreProject2\EntityLayer\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+D:\CSharpCode\CoreProject2\EntityLayer\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\CSharpCode\CoreProject2\EntityLayer\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\CSharpCode\CoreProject2\EntityLayer\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\CSharpCode\CoreProject2\EntityLayer\BusinessLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\CSharpCode\CoreProject2\EntityLayer\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\CSharpCode\CoreProject2\EntityLayer\BusinessLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\CSharpCode\CoreProject2\EntityLayer\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\CSharpCode\CoreProject2\EntityLayer\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCode\CoreProject2\EntityLayer\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\CSharpCode\CoreProject2\EntityLayer\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+D:\CSharpCode\CoreProject2\EntityLayer\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\CSharpCode\CoreProject2\EntityLayer\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+D:\CSharpCode\CoreProject2\EntityLayer\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+D:\CSharpCode\CoreProject2\EntityLayer\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+D:\CSharpCode\CoreProject2\EntityLayer\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+D:\CSharpCode\CoreProject2\EntityLayer\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
