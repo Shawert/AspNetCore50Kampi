@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "0WoyiIluvLoZuWx2IS8p1qOf3ECfXzK3X392R82Lt9KbMTTHOGym7oWEZ+NsIUlsb58+DyiSUX++AtvD/VYxJw==",
+  "dgSpecHash": "cHzj4omS0bnj8qMi70iaOJ16LlW+Kcz7AAl+jaL9tll+IhVHXFDecAupxt0asOMjDreRBdTfT/MNusTu/VgoDA==",
   "success": true,
   "projectFilePath": "D:\\CSharpCode\\CoreProject2\\EntityLayer\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pymuz\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\pymuz\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\pymuz\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\pymuz\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\pymuz\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\pymuz\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\pymuz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\pymuz\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.2\\microsoft.data.sqlclient.5.0.2.nupkg.sha512",
